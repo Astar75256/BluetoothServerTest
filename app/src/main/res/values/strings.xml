@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth Test</string>
+    <string name="server_mode">Режим сервера</string>
+    <string name="run_server">Запустить сервер</string>
+</resources>
